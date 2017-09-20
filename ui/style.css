@@ -3,7 +3,9 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
-
+h1{
+    background-color: blue;
+}
 .center {
     text-align: center;
 }
